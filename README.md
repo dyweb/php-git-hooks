@@ -20,7 +20,7 @@ You must add the following line to the `composer.json` file to use with Symfony 
 ```json
 {
     "require-dev": {
-        "bruli/php-git-hooks": "~4.1"
+        "dyweb/php-git-hooks": "~4.1"
     }
 }
 ```
@@ -29,7 +29,7 @@ You can use "~2.0" for Symfony version 2.X.
 Or you can write in your console:
 
 ```bash
-$ composer require bruli/php-git-hooks --dev
+$ composer require dyweb/php-git-hooks --dev
 ```
 
 If you don't have composer, you need download the  binary file and run it:
