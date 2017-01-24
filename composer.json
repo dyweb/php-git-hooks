@@ -1,5 +1,5 @@
 {
-  "name": "bruli/php-git-hooks",
+  "name": "dyweb/php-git-hooks",
   "description": "Git hooks for PHP projects.",
   "license": "MIT",
   "keywords": [
@@ -11,6 +11,10 @@
     {
       "name": "Pablo Braulio",
       "email": "brulics@gmail.com"
+    },
+    {
+      "name": "JasonQSY",
+      "email": "jasonsyqian@gmail.com"
     }
   ],
   "type": "library",
